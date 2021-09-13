@@ -1,2 +1,2 @@
-# exytrawiki
+# Exytra Wiki
 Exytra Wiki
