@@ -1,5 +1,4 @@
 # Exytra Wiki
-Exytra Wiki
 
-# Why?
-The Wiki is for explanation for some usage of the Selfbot.
+# For what is the wiki?
+The Wiki, shows available commands that are in Exytra
